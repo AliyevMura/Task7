@@ -1,0 +1,15 @@
+C:\Users\lenovo\source\repos\TaskMarch7\TaskMarch7\bin\Debug\net6.0\TaskMarch7.exe
+C:\Users\lenovo\source\repos\TaskMarch7\TaskMarch7\bin\Debug\net6.0\TaskMarch7.deps.json
+C:\Users\lenovo\source\repos\TaskMarch7\TaskMarch7\bin\Debug\net6.0\TaskMarch7.runtimeconfig.json
+C:\Users\lenovo\source\repos\TaskMarch7\TaskMarch7\bin\Debug\net6.0\TaskMarch7.dll
+C:\Users\lenovo\source\repos\TaskMarch7\TaskMarch7\bin\Debug\net6.0\TaskMarch7.pdb
+C:\Users\lenovo\source\repos\TaskMarch7\TaskMarch7\obj\Debug\net6.0\TaskMarch7.csproj.AssemblyReference.cache
+C:\Users\lenovo\source\repos\TaskMarch7\TaskMarch7\obj\Debug\net6.0\TaskMarch7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\source\repos\TaskMarch7\TaskMarch7\obj\Debug\net6.0\TaskMarch7.AssemblyInfoInputs.cache
+C:\Users\lenovo\source\repos\TaskMarch7\TaskMarch7\obj\Debug\net6.0\TaskMarch7.AssemblyInfo.cs
+C:\Users\lenovo\source\repos\TaskMarch7\TaskMarch7\obj\Debug\net6.0\TaskMarch7.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\TaskMarch7\TaskMarch7\obj\Debug\net6.0\TaskMarch7.dll
+C:\Users\lenovo\source\repos\TaskMarch7\TaskMarch7\obj\Debug\net6.0\refint\TaskMarch7.dll
+C:\Users\lenovo\source\repos\TaskMarch7\TaskMarch7\obj\Debug\net6.0\TaskMarch7.pdb
+C:\Users\lenovo\source\repos\TaskMarch7\TaskMarch7\obj\Debug\net6.0\TaskMarch7.genruntimeconfig.cache
+C:\Users\lenovo\source\repos\TaskMarch7\TaskMarch7\obj\Debug\net6.0\ref\TaskMarch7.dll
